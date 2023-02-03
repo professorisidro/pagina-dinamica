@@ -1,0 +1,24 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h2{
+    text-align: center;
+}
+
+img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+#header{
+    margin-left: 15%;
+    margin-right: 15%;
+    border-bottom: 1px solid rgb(128, 127, 127)
+}
+
+.oculta{
+    /* visibility: hidden; */
+    display:none;
+}
